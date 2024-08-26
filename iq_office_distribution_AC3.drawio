@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.4">
   <diagram name="Page-1" id="QvzbdOXmKcb07pEn3236">
-    <mxGraphModel dx="1674" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-Qdeftf8H75sDICs_vUa-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="80" width="560" height="720" as="geometry" />
+          <mxGeometry x="250" y="-30" width="560" height="720" as="geometry" />
         </mxCell>
         <mxCell id="-Qdeftf8H75sDICs_vUa-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-Qdeftf8H75sDICs_vUa-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,6 +44,24 @@
             <mxPoint x="480" y="720" as="sourcePoint" />
             <mxPoint x="480" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-Qdeftf8H75sDICs_vUa-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="-Qdeftf8H75sDICs_vUa-9">
+          <mxGeometry x="400" y="635" width="80" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="-Qdeftf8H75sDICs_vUa-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-Qdeftf8H75sDICs_vUa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="550" as="sourcePoint" />
+            <mxPoint x="270" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Qdeftf8H75sDICs_vUa-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-Qdeftf8H75sDICs_vUa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="720" as="sourcePoint" />
+            <mxPoint x="270" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Qdeftf8H75sDICs_vUa-15" value="Meeting&lt;div&gt;Room&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="563" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
