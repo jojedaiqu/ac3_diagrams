@@ -550,9 +550,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ts5Df_SnjltCFpKJf5kX-182" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;NorthBound API Engine&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="3400" width="3090" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
