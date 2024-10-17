@@ -218,6 +218,14 @@
         <mxCell id="vUEfeBpxAFAEwGMZp27j-106" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Data Manipulator&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="3860" width="300" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ts5Df_SnjltCFpKJf5kX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ts5Df_SnjltCFpKJf5kX-1" target="vUEfeBpxAFAEwGMZp27j-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="2790" />
+              <mxPoint x="-820" y="4570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ts5Df_SnjltCFpKJf5kX-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Data Catalog&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-540" y="2760" width="300" height="60" as="geometry" />
         </mxCell>
