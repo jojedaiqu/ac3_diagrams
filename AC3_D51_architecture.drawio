@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ts5Df_SnjltCFpKJf5kX-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2450" width="1020" height="650" as="geometry" />
+        </mxCell>
         <mxCell id="Ts5Df_SnjltCFpKJf5kX-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#3399FF;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-840" y="2700" width="980" height="1910" as="geometry" />
         </mxCell>
@@ -477,7 +480,7 @@
           <mxGeometry x="490" y="2610" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ts5Df_SnjltCFpKJf5kX-117" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Adaptation &amp;amp; Federation Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="3340" width="2280" height="60" as="geometry" />
+          <mxGeometry x="320" y="3340" width="2280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
